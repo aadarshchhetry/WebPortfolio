@@ -5,9 +5,7 @@ import List from './components/ListFile/List';
 import Footer from './components/Footer/Footer'
 
 class App extends Component{
-  constructor() {
-    super()
-  }
+  
   render(){
       return (
         <div className="App">
