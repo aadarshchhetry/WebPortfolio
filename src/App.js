@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import ImageFile from './components/ImageFile/ImageFile';
 import List from './components/ListFile/List';
+import Footer from './components/Footer/Footer'
 
 class App extends Component{
   constructor() {
@@ -13,6 +14,7 @@ class App extends Component{
           <header className="App-header">
             < ImageFile />
             < List />
+            < Footer />
             
           </header>
         </div>
