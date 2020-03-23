@@ -7,35 +7,49 @@ const List = () => {
             <div class="container">
 
             <div class="row">
-
-                <div class="col-md-4">
-                <div class="card mb-4 shadow-sm">
-                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">LinkedIn</text></svg>                    
-                </div>
-                </div>
+                
+                    <div class="col-md-4">
+                    <div class="card mb-4 shadow-sm">
+                    <a href="https://www.linkedin.com/in/aadarsh-chhetry-54ba4a166/">
+                        <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">LinkedIn</text></svg> 
+                    </a>                   
+                    </div>
+                    </div>
+                
                 
                 <div class="col-md-4">
                 <div class="card mb-4 shadow-sm">
+                <a href="https://github.com/aadarshchhetry">
                     <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">GitHub</text></svg>                    
-                </div>
+                    </a></div>
                 </div>
 
                 <div class="col-md-4">
                 <div class="card mb-4 shadow-sm">
+                <a href="https://www.instagram.com/aaadarshchhetry/?hl=en">
                     <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Instagram</text></svg>                    
-                </div>
+                    </a></div>
                 </div>
 
                 <div class="col-md-4">
                 <div class="card mb-4 shadow-sm">
+                <a href="">
                     <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Freelancer</text></svg>                    
-                </div>
+                </a></div>
                 </div>
 
                 <div class="col-md-4">
                 <div class="card mb-4 shadow-sm">
+                <a href="">
                     <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Fiverr</text></svg>                    
+                    </a></div>
                 </div>
+
+                <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                <a href="">
+                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Facebook</text></svg>                    
+                    </a></div>
                 </div>
 
             </div>
