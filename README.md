@@ -1,5 +1,3 @@
-Heroku deployed success: https://linksaadarshchhetry.herokuapp.com/
-
 # Linking WebPage
 
 A landing webpage to link all the social media account, profiles into one single page.
